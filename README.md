@@ -14,7 +14,7 @@ Je suis passionné par le cloud computing et la cybersécurité !
 
 ---
 
-## Projets réalisés à l'ESILV <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_ESILV_2020.svg/512px-Logo_ESILV_2020.svg.png" alt="Logo ESILV" width="120"/>
+## Projets réalisés à l'ESILV 
 
 ### - Jeu Pokémon tour par tour (C++) [En cours]
 Un jeu en mode console reprenant le principe de combat Pokémon. Codé en C++, programmation orientée objet.
