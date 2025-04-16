@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub !
 
-<!--
-**mroyant/mroyant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Étudiant à l'ESILV A3 Alternance (École Supérieure d'Ingénieurs Léonard de Vinci)
 
-Here are some ideas to get you started:
+Je suis passionné par le cloud computing et la cybersécurité !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Langages & Technologies
+
+- **Langages** : `Python` / `C#` / `C++`
+- **Base de données** : `MySQL`
+- **Infrastructure as Code** : `Terraform`
+
+---
+
+## Projets réalisés à l'ESILV <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_ESILV_2020.svg/512px-Logo_ESILV_2020.svg.png" alt="Logo ESILV" width="120"/>
+
+### - Jeu Pokémon tour par tour (C++) [En cours]
+Un jeu en mode console reprenant le principe de combat Pokémon. Codé en C++, programmation orientée objet.
+
+### - Jeu de plateau : EpicMotsGlisse (C#)
+jeu en interface console où l’utilisateur doit retrouver des mots dans une grille de lettres. Une fois un mot trouvé, les lettres disparaissent et les autres tombent pour combler les espaces.
+
+### - VeloMax – Application de gestion (C# / MySQL)
+Application connectée à une base de données MySQL simulant une entreprise de vente de vélos. Gestion des stocks et des commandes.
+
+
+### - Analyse de données en télécommunication (Python)
+Projet de data science sur des jeux de données issus du domaine des télécommunications : nettoyage, visualisation, application de modèles et analyse.
+
+---
+
+Merci de votre visite ! ⭐
